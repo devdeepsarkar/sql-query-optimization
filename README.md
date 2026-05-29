@@ -1,4 +1,4 @@
-# ⚡ SQL Query Optimization — Case Studies
+# SQL Query Optimization — Case Studies
 
 ## Overview
 5 real-world SQL performance problems — each with a bad query,
